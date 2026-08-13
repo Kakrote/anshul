@@ -1,0 +1,358 @@
+{
+  "personal": {
+    "name": "Anshul",
+    "title": "Senior Full-Stack & SaaS Architect",
+    "handle": "anshul_dev",
+    "tagline": "Building High-Performance SaaS, Scalable APIs & Intelligent AI Workflows",
+    "heroSubtext": "Specializing in MERN & PERN stacks, Redis caching, Docker containerization, VPS deployment, and custom Claude Code / AI integrations with automated CI/CD pipelines.",
+    "bioHeading": "Crafting mission-critical web applications with speed, security & high concurrency.",
+    "bioParagraphs": [
+      "I am a Senior Full-Stack Engineer and Freelance SaaS Architect with over 5+ years of experience transforming complex technical requirements into scalable, ultra-fast web products.",
+      "My core mastery spans the MERN and PERN ecosystems—leveraging PostgreSQL and MongoDB for tailored database performance, Redis for microsecond-level caching, and Docker with automated GitHub Actions CI/CD for flawless VPS deployments.",
+      "Lately, I integrate cutting-edge LLM agents and AI workflows (such as Claude Code & OpenAI APIs) directly into production systems, giving businesses an unmatched competitive edge."
+    ],
+    "location": "Global / Remote (EST & IST Sync)",
+    "email": "hello@anshul.dev",
+    "phone": "+1 (555) 234-8901",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "resumeUrl": "#",
+    "availabilityStatus": "Available for Q3/Q4 Projects",
+    "yearsOfExperience": "5+",
+    "projectCount": "40+",
+    "clientSatisfactionRate": "99%",
+    "socials": [
+      { "platform": "GitHub", "url": "https://github.com/example", "icon": "Github" },
+      { "platform": "LinkedIn", "url": "https://linkedin.com/in/example", "icon": "Linkedin" },
+      { "platform": "Twitter", "url": "https://twitter.com/anshul_dev", "icon": "Twitter" }
+    ]
+  },
+  "seo": {
+    "title": "Anshul | Senior Full-Stack & SaaS Engineer | MERN, PERN, AI & DevOps",
+    "description": "Freelance Senior Full-Stack & SaaS Engineer specializing in MERN/PERN stack, Redis, Docker, VPS, Claude Code AI integration, and automated CI/CD pipelines.",
+    "keywords": [
+      "Full-Stack Developer",
+      "SaaS Architect",
+      "MERN Stack",
+      "PERN Stack",
+      "React Next.js Engineer",
+      "Redis Caching",
+      "Docker VPS Deployment",
+      "Claude Code Integration",
+      "CI/CD Pipeline Expert",
+      "Freelance Web Developer"
+    ],
+    "author": "Anshul",
+    "siteUrl": "https://anshul.dev",
+    "ogImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
+    "twitterHandle": "@anshul_dev"
+  },
+  "skills": [
+    {
+      "id": "mern-pern",
+      "name": "MERN & PERN Ecosystem",
+      "icon": "Layers",
+      "description": "Full-stack mastery combining SQL/NoSQL databases with modern React/Node platforms.",
+      "skills": [
+        { "name": "React.js / Next.js", "level": 96, "isPrimary": true },
+        { "name": "Node.js & Express", "level": 94, "isPrimary": true },
+        { "name": "PostgreSQL & Prisma/Drizzle", "level": 92, "isPrimary": true },
+        { "name": "MongoDB & Mongoose", "level": 90, "isPrimary": true },
+        { "name": "TypeScript", "level": 95, "isPrimary": true },
+        { "name": "Tailwind CSS & Modern UI", "level": 92, "isPrimary": false }
+      ]
+    },
+    {
+      "id": "performance-devops",
+      "name": "DevOps, VPS & Infrastructure",
+      "icon": "Server",
+      "description": "High-availability containerized server setups, microsecond caching, and automated deployment pipelines.",
+      "skills": [
+        { "name": "Docker & Compose", "level": 90, "isPrimary": true },
+        { "name": "Redis In-Memory Cache", "level": 92, "isPrimary": true },
+        { "name": "VPS (DigitalOcean, Hetzner, AWS EC2)", "level": 88, "isPrimary": true },
+        { "name": "Nginx & Reverse Proxies", "level": 86, "isPrimary": false },
+        { "name": "GitHub Actions CI/CD", "level": 91, "isPrimary": true },
+        { "name": "Linux SysAdmin & Security", "level": 85, "isPrimary": false }
+      ]
+    },
+    {
+      "id": "ai-automation",
+      "name": "AI Integration & Workflows",
+      "icon": "Cpu",
+      "description": "Embedding LLMs, autonomous agent pipelines, and intelligent tools into core SaaS products.",
+      "skills": [
+        { "name": "Claude Code & Anthropic API", "level": 94, "isPrimary": true },
+        { "name": "OpenAI / LangChain Agents", "level": 88, "isPrimary": true },
+        { "name": "Vector Databases (Pinecone / Qdrant)", "level": 84, "isPrimary": false },
+        { "name": "REST & GraphQL APIs", "level": 95, "isPrimary": true },
+        { "name": "Webhook & Event Architectures", "level": 92, "isPrimary": false }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Principal Freelance SaaS Architect",
+      "company": "Self-Employed / Independent Contractor",
+      "location": "Remote",
+      "period": "2022 - Present",
+      "type": "freelance",
+      "description": "Designing and shipping custom SaaS platforms, high-throughput APIs, and AI integrations for global startups and SMB clients.",
+      "achievements": [
+        "Architected a PERN SaaS platform serving 100k+ monthly active users with 99.98% uptime on containerized Hetzner VPS nodes.",
+        "Integrated Redis caching layer reducing database read load by 74% and sub-100ms response times for critical query routes.",
+        "Built custom Claude Code automation tools for client customer support workflows, dropping manual tickets by 60%."
+      ],
+      "techStack": ["PostgreSQL", "React", "Node.js", "Redis", "Docker", "VPS", "GitHub Actions"]
+    },
+    {
+      "id": "exp-2",
+      "role": "Senior Full-Stack Engineer",
+      "company": "Nexus Tech Solutions",
+      "location": "Hybrid",
+      "period": "2020 - 2022",
+      "type": "full-time",
+      "description": "Led backend and frontend core teams building real-time collaboration dashboards and automated data pipelines.",
+      "achievements": [
+        "Migrated legacy Express/MongoDB monolith into dockerized microservices connected via Redis Pub/Sub.",
+        "Setup complete CI/CD pipelines enforcing automated testing, linting, and zero-downtime VPS rollouts."
+      ],
+      "techStack": ["MERN Stack", "Redis", "Docker", "Express.js", "Nginx"]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "B.S. in Computer Science & Engineering",
+      "institution": "Institute of Technology",
+      "period": "2016 - 2020",
+      "details": "Specialization in Distributed Systems, Database Design, and Software Architecture."
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "slug": "ai-saas-copilot",
+      "title": "AetherAI - Enterprise Claude Agent Copilot",
+      "tagline": "AI-Driven Workflow Automation for Tech Support & Sales",
+      "description": "A full-stack SaaS built on PERN stack featuring Claude 3.7 API integration, custom vector search, and automated background jobs.",
+      "fullDescription": "AetherAI enables enterprises to run autonomous support and code revision agents. Built with PostgreSQL for multi-tenant data storage, Express/Node.js microservices, Redis queue management for async AI tasks, and a sleek React/Next.js dashboard.",
+      "category": "ai",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+      "liveUrl": "https://example.com/demo-aether",
+      "githubUrl": "https://github.com/example/aether-ai",
+      "techStack": ["PostgreSQL", "Express", "React", "Node.js", "Redis", "Claude Code API", "Docker"],
+      "metrics": [
+        { "label": "Query Latency Reduction", "value": "-65%" },
+        { "label": "Async Worker Speed", "value": "10k tasks/min" },
+        { "label": "Client Satisfaction", "value": "4.9/5" }
+      ],
+      "keyFeatures": [
+        "Multi-tenant PostgreSQL database with RLS security",
+        "Redis BullMQ queue system for background LLM processing",
+        "Real-time WebSocket streaming responses for UI",
+        "Automated Docker deployment on VPS via GitHub Actions"
+      ]
+    },
+    {
+      "id": "proj-2",
+      "slug": "hyper-scale-ecommerce",
+      "title": "HyperScale - High-Concurrency PERN E-Commerce Platform",
+      "tagline": "Sub-50ms Response Times & Million-Item Catalog Management",
+      "description": "A scalable e-commerce infrastructure with Redis product catalog caching, Docker orchestration, and seamless VPS deployment.",
+      "fullDescription": "HyperScale handles flash sales and sudden traffic surges smoothly. Features PostgreSQL query optimization, Redis key-value cache for hot products, and a React storefront with dynamic Server-Side Rendering.",
+      "category": "fullstack",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1556742049-0a67daf4005a?auto=format&fit=crop&w=1200&q=80",
+      "liveUrl": "https://example.com/demo-hyperscale",
+      "githubUrl": "https://github.com/example/hyperscale",
+      "techStack": ["PostgreSQL", "React", "Node.js", "Redis", "Docker", "VPS", "CI/CD"],
+      "metrics": [
+        { "label": "Page Load Speed", "value": "0.4s" },
+        { "label": "Concurrent Users", "value": "50,000+" },
+        { "label": "Cache Hit Ratio", "value": "94.2%" }
+      ],
+      "keyFeatures": [
+        "Redis cluster caching layer for instant catalog reads",
+        "Stripe payment gateway integration with Webhook retry queues",
+        "Custom Docker Compose staging & production environment",
+        "Automated SSL and reverse proxy configuration via Nginx"
+      ]
+    },
+    {
+      "id": "proj-3",
+      "slug": "cloud-vps-monitor",
+      "title": "PulseOps - VPS Health & CI/CD Pipeline Dashboard",
+      "tagline": "Real-time Container Telemetry & Automated Deployment Logs",
+      "description": "A developer control panel for managing Linux VPS nodes, Docker containers, and CI/CD status with live alerts.",
+      "fullDescription": "PulseOps provides small engineering teams with clear visibility into server CPU/RAM usage, container statuses, and GitHub Actions build notifications. Built using MERN stack and Redis pub/sub sockets.",
+      "category": "devops",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
+      "liveUrl": "https://example.com/demo-pulseops",
+      "githubUrl": "https://github.com/example/pulseops",
+      "techStack": ["MongoDB", "Express", "React", "Node.js", "Docker API", "Redis PubSub"],
+      "metrics": [
+        { "label": "Metrics Polling", "value": "1s real-time" },
+        { "label": "Resource Footprint", "value": "<15MB RAM" },
+        { "label": "Deployment Time", "value": "<2 minutes" }
+      ],
+      "keyFeatures": [
+        "Direct Docker daemon socket integration for real-time container control",
+        "Telegram & Discord webhook alert system for memory/disk triggers",
+        "Lightweight single-command deployment via Docker Compose"
+      ]
+    },
+    {
+      "id": "proj-4",
+      "slug": "saas-subscription-boilerplate",
+      "title": "NexusSaaS - MERN Subscription & Multi-Tenant Engine",
+      "tagline": "Turnkey SaaS Starter with Authentication, Billing & RBAC",
+      "description": "Production-ready boilerplate for launching SaaS platforms in days with MERN stack, Redis session store, and Docker configs.",
+      "fullDescription": "NexusSaaS comes pre-configured with JWT & Redis authentication, Stripe billing subscriptions, role-based access control (RBAC), and automated CI/CD scripts.",
+      "category": "saas",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+      "liveUrl": "https://example.com/demo-nexussaas",
+      "githubUrl": "https://github.com/example/nexussaas",
+      "techStack": ["MongoDB", "Express", "React", "Node.js", "Redis", "Stripe", "CI/CD"],
+      "metrics": [
+        { "label": "Setup Time", "value": "10 minutes" },
+        { "label": "Test Coverage", "value": "90%+" }
+      ],
+      "keyFeatures": [
+        "Pre-built Stripe checkout & customer portal hooks",
+        "Redis rate-limiting middleware for API security",
+        "Granular team invitation & workspace management"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "service-1",
+      "title": "Full-Stack Web App Development",
+      "slug": "full-stack-web-apps",
+      "description": "End-to-end web applications built using MERN or PERN stacks with pixel-perfect modern UIs and rock-solid Node backend architectures.",
+      "icon": "Code2",
+      "deliverables": [
+        "Custom React / Next.js frontend with GSAP animations",
+        "Secure Node.js & Express RESTful/GraphQL backend",
+        "Optimized database schema (PostgreSQL / MongoDB)",
+        "Comprehensive API documentation & unit tests"
+      ],
+      "process": ["Requirement Discovery", "Architecture & DB Design", "Agile Sprints & Demos", "Launch & Handoff"],
+      "startingPrice": "$2,500"
+    },
+    {
+      "id": "service-2",
+      "title": "SaaS Product Architecture & Scale",
+      "slug": "saas-architecture",
+      "description": "Transforming SaaS concepts into high-concurrency production platforms with Redis caching, auth, multi-tenancy, and billing.",
+      "icon": "Rocket",
+      "deliverables": [
+        "Multi-tenant data isolation & Stripe billing setup",
+        "Redis caching & BullMQ background job queues",
+        "Performance optimization to sub-100ms API speeds",
+        "Security audit & rate-limiting protection"
+      ],
+      "process": ["Technical Audit", "SaaS Core Implementation", "Stripe & Auth Integration", "Load Testing"],
+      "startingPrice": "$3,800"
+    },
+    {
+      "id": "service-3",
+      "title": "Claude Code & AI LLM Integration",
+      "slug": "ai-llm-integration",
+      "description": "Supercharge your existing web app with custom AI workflows, Claude 3.7 API integration, and vector RAG pipelines.",
+      "icon": "Bot",
+      "deliverables": [
+        "Custom Claude Code / Anthropic LLM integrations",
+        "Vector database indexing (Pinecone / Qdrant)",
+        "Real-time streaming text responses & fallback strategies",
+        "Cost-optimized prompt engineering & token caching"
+      ],
+      "process": ["Use Case Definition", "Prompt & Vector Engineering", "API Integration", "Evaluation & Fine-tuning"],
+      "startingPrice": "$1,800"
+    },
+    {
+      "id": "service-4",
+      "title": "Docker, VPS Setup & CI/CD Pipelines",
+      "slug": "devops-vps-cicd",
+      "description": "Reliable, automated server infrastructure setup on cost-effective VPS hosts (DigitalOcean/Hetzner) with zero-downtime CI/CD.",
+      "icon": "Server",
+      "deliverables": [
+        "Docker containerization & docker-compose configuration",
+        "Nginx reverse proxy, SSL auto-renewal & Firewall setup",
+        "GitHub Actions automated build, test & deploy pipelines",
+        "Redis cluster setup & server health monitoring"
+      ],
+      "process": ["Server Provisioning", "Dockerization", "CI/CD Workflow Build", "Stress Testing & Go-Live"],
+      "startingPrice": "$1,200"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "quote": "Anshul transformed our slow database queries into sub-50ms responses using Redis and PostgreSQL optimizations. His mastery of Docker and VPS deployments saved us over $1,200/month in cloud hosting costs!",
+      "clientName": "Marcus Vance",
+      "clientRole": "CTO & Co-Founder",
+      "company": "Veloce SaaS Systems",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "rating": 5,
+      "projectTitle": "PERN SaaS Architecture"
+    },
+    {
+      "id": "test-2",
+      "quote": "Working with Anshul on our Claude AI integration was smooth and seamless. He delivered an end-to-end MERN solution with real-time streaming sockets ahead of deadline.",
+      "clientName": "Elena Rostova",
+      "clientRole": "VP of Product",
+      "company": "Kinetix AI Solutions",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
+      "rating": 5,
+      "projectTitle": "AetherAI Copilot"
+    },
+    {
+      "id": "test-3",
+      "quote": "Anshul's CI/CD pipeline setup for our Docker containers on Hetzner VPS made our deployment process 100% automated. Push to main and it's live in 90 seconds. Exceptional work!",
+      "clientName": "David Chen",
+      "clientRole": "Lead DevOps Manager",
+      "company": "CloudForge Labs",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "rating": 5,
+      "projectTitle": "VPS & CI/CD Migration"
+    }
+  ],
+  "contact": {
+    "email": "hello@anshul.dev",
+    "phone": "+1 (555) 234-8901",
+    "location": "Remote / Worldwide (EST & IST Sync)",
+    "timezone": "UTC+5:30 (Flexible to US/EU hours)",
+    "workingHours": "Mon - Fri: 09:00 AM - 07:00 PM",
+    "responseTime": "Within 4 hours",
+    "subjectOptions": [
+      "New Full-Stack / SaaS Project",
+      "AI & Claude Code Integration",
+      "Redis / Performance Optimization",
+      "VPS, Docker & CI/CD Pipeline Setup",
+      "General Inquiry"
+    ],
+    "faqs": [
+      {
+        "question": "What is your typical project timeline?",
+        "answer": "Small AI integrations and DevOps setups take 3-7 days. Full-stack MVP web apps or SaaS platforms typically take 3-6 weeks depending on feature scope."
+      },
+      {
+        "question": "Can I easily update the portfolio content myself?",
+        "answer": "Yes! Every piece of text, project, skill, service, and contact detail is driven entirely from the data/portfolio.json file. You don't need to touch React code to make updates."
+      },
+      {
+        "question": "How do you handle hosting & VPS deployment?",
+        "answer": "I configure production-ready Docker containers and setup reverse proxy servers (Nginx) on VPS providers like DigitalOcean, Hetzner, or AWS EC2, automated via GitHub Actions."
+      },
+      {
+        "question": "Are you available for contract or full-time roles?",
+        "answer": "Yes, I am currently taking on high-impact freelance projects, advisory roles, and selective contract opportunities."
+      }
+    ]
+  }
+}

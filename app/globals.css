@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-dark: #060907;
+    --bg-card: rgba(13, 23, 18, 0.7);
+    --bg-card-hover: rgba(18, 32, 25, 0.85);
+    --neon-green: #00ff87;
+    --neon-emerald: #10b981;
+    --neon-cyan: #00f0ff;
+    --border-glow: rgba(0, 255, 135, 0.2);
+    --border-glow-hover: rgba(0, 255, 135, 0.5);
+  }
+
+  body {
+    background-color: var(--bg-dark);
+    color: #e2e8f0;
+    overflow-x: hidden;
+    font-family: var(--font-sans, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif);
+    selection-background-color: #00ff87;
+    selection-color: #060907;
+  }
+}
+
+/* Background Neo Matrix Grid Overlay */
+.neo-grid-bg {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 255, 135, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 255, 135, 0.03) 1px, transparent 1px);
+}
+
+.neo-radial-glow {
+  background: radial-gradient(circle at 50% 20%, rgba(0, 255, 135, 0.12) 0%, rgba(6, 9, 7, 0) 70%);
+}
+
+/* Glassmorphism & Neon Glow Utilities */
+.glass-panel {
+  background: rgba(13, 23, 18, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 255, 135, 0.12);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.glass-panel:hover {
+  border-color: rgba(0, 255, 135, 0.35);
+  box-shadow: 0 0 25px rgba(0, 255, 135, 0.15);
+}
+
+.neo-glow-border {
+  position: relative;
+}
+
+.neo-glow-border::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(90deg, #00ff87, #00f0ff, #10b981);
+  border-radius: inherit;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.neo-glow-border:hover::after {
+  opacity: 0.8;
+  filter: blur(8px);
+}
+
+/* Gradient Text */
+.text-gradient-emerald {
+  background: linear-gradient(135deg, #00ff87 0%, #60efff 50%, #10b981 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-white-emerald {
+  background: linear-gradient(135deg, #ffffff 30%, #00ff87 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #060907;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #122319;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 255, 135, 0.2);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00ff87;
+}
+
+/* Hide default cursor on desktop when custom cursor is active */
+@media (min-width: 1024px) {
+  body.has-custom-cursor {
+    cursor: none;
+  }
+  body.has-custom-cursor a,
+  body.has-custom-cursor button,
+  body.has-custom-cursor input,
+  body.has-custom-cursor textarea,
+  body.has-custom-cursor [role="button"] {
+    cursor: none;
+  }
+}
+
+/* Marquee Animation */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 25s linear infinite;
+}
+
