@@ -1,357 +1,337 @@
 {
   "personal": {
-    "name": "Anshul",
-    "title": "Senior Full-Stack & SaaS Architect",
-    "handle": "anshul_dev",
-    "tagline": "Building High-Performance SaaS, Scalable APIs & Intelligent AI Workflows",
-    "heroSubtext": "Specializing in MERN & PERN stacks, Redis caching, Docker containerization, VPS deployment, and custom Claude Code / AI integrations with automated CI/CD pipelines.",
-    "bioHeading": "Crafting mission-critical web applications with speed, security & high concurrency.",
+    "name": "Anshul Pundir",
+    "title": "Full Stack & AI Applications Developer",
+    "handle": "anshul_pundir",
+    "tagline": "Building Scalable Backend Systems, Automated Workflows & AI-Powered Web Applications",
+    "heroSubtext": "Experienced in Node.js, Express.js, PostgreSQL, Redis, Docker, and TypeScript. Specializing in REST APIs, microservices, CI/CD pipelines, VPS deployments, and Retrieval-Augmented Generation (RAG) using FastAPI & pgvector.",
+    "bioHeading": "Crafting production-ready web applications, microservices, and AI-driven systems with high performance and efficiency.",
     "bioParagraphs": [
-      "I am a Senior Full-Stack Engineer and Freelance SaaS Architect with over 5+ years of experience transforming complex technical requirements into scalable, ultra-fast web products.",
-      "My core mastery spans the MERN and PERN ecosystems—leveraging PostgreSQL and MongoDB for tailored database performance, Redis for microsecond-level caching, and Docker with automated GitHub Actions CI/CD for flawless VPS deployments.",
-      "Lately, I integrate cutting-edge LLM agents and AI workflows (such as Claude Code & OpenAI APIs) directly into production systems, giving businesses an unmatched competitive edge."
+      "I am a Full Stack Developer with experience designing scalable backend architectures using Node.js, Express.js, PostgreSQL, Redis, Docker, and TypeScript.",
+      "At Uttaranchal University, I engineer microservices, automate CMS operations with n8n and AI workflows (reducing manual effort by 70% and boosting productivity by 40%), and deploy production web portals via GitHub Actions CI/CD to VPS servers.",
+      "Additionally, I build AI-powered applications utilizing Retrieval-Augmented Generation (RAG), pgvector semantic search, and Groq & Gemini LLM APIs."
     ],
-    "location": "Global / Remote (EST & IST Sync)",
-    "email": "hello@anshul.dev",
-    "phone": "+1 (555) 234-8901",
+    "location": "Dehradun, Uttarakhand, India",
+    "email": "anshul.pundir111@gmail.com",
+    "phone": "+91 7505316239",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
-    "resumeUrl": "#",
-    "availabilityStatus": "Available for Q3/Q4 Projects",
-    "yearsOfExperience": "5+",
-    "projectCount": "40+",
-    "clientSatisfactionRate": "99%",
+    "resumeUrl": "/AnshulPundir.pdf",
+    "availabilityStatus": "Available for Full-time Roles & High-Impact Projects",
+    "yearsOfExperience": "1+",
+    "projectCount": "5+",
+    "clientSatisfactionRate": "100%",
     "socials": [
-      { "platform": "GitHub", "url": "https://github.com/example", "icon": "Github" },
-      { "platform": "LinkedIn", "url": "https://linkedin.com/in/example", "icon": "Linkedin" },
-      { "platform": "Twitter", "url": "https://twitter.com/anshul_dev", "icon": "Twitter" }
+      { "platform": "GitHub", "url": "https://github.com", "icon": "Github" },
+      { "platform": "LinkedIn", "url": "https://linkedin.com", "icon": "Linkedin" }
     ]
   },
   "seo": {
-    "title": "Anshul | Senior Full-Stack & SaaS Engineer | MERN, PERN, AI & DevOps",
-    "description": "Freelance Senior Full-Stack & SaaS Engineer specializing in MERN/PERN stack, Redis, Docker, VPS, Claude Code AI integration, and automated CI/CD pipelines.",
+    "title": "Anshul Pundir | Full Stack & AI Applications Developer",
+    "description": "Portfolio of Anshul Pundir - Full Stack Developer experienced in Node.js, Next.js, Express.js, PostgreSQL, Redis, Docker, microservices, and RAG AI applications.",
     "keywords": [
-      "Full-Stack Developer",
-      "SaaS Architect",
-      "MERN Stack",
-      "PERN Stack",
-      "React Next.js Engineer",
-      "Redis Caching",
+      "Anshul Pundir",
+      "Full Stack Developer",
+      "Node.js Developer",
+      "Next.js Developer",
+      "FastAPI RAG",
+      "PostgreSQL pgvector",
+      "Redis Microservices",
       "Docker VPS Deployment",
-      "Claude Code Integration",
-      "CI/CD Pipeline Expert",
-      "Freelance Web Developer"
+      "n8n Workflow Automation",
+      "Uttaranchal University"
     ],
-    "author": "Anshul",
-    "siteUrl": "https://anshul.dev",
+    "author": "Anshul Pundir",
+    "siteUrl": "https://anshulpundir.dev",
     "ogImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
-    "twitterHandle": "@anshul_dev"
+    "twitterHandle": "@anshul_pundir"
   },
   "skills": [
     {
-      "id": "mern-pern",
-      "name": "MERN & PERN Ecosystem",
+      "id": "fullstack-backend",
+      "name": "Backend & Microservices",
       "icon": "Layers",
-      "description": "Full-stack mastery combining SQL/NoSQL databases with modern React/Node platforms.",
+      "description": "Robust backend architectures, microservices, asynchronous queues, and database design.",
       "skills": [
-        { "name": "React.js / Next.js", "level": 96, "isPrimary": true },
-        { "name": "Node.js & Express", "level": 94, "isPrimary": true },
-        { "name": "PostgreSQL & Prisma/Drizzle", "level": 92, "isPrimary": true },
-        { "name": "MongoDB & Mongoose", "level": 90, "isPrimary": true },
-        { "name": "TypeScript", "level": 95, "isPrimary": true },
-        { "name": "Tailwind CSS & Modern UI", "level": 92, "isPrimary": false }
-      ]
-    },
-    {
-      "id": "performance-devops",
-      "name": "DevOps, VPS & Infrastructure",
-      "icon": "Server",
-      "description": "High-availability containerized server setups, microsecond caching, and automated deployment pipelines.",
-      "skills": [
-        { "name": "Docker & Compose", "level": 90, "isPrimary": true },
-        { "name": "Redis In-Memory Cache", "level": 92, "isPrimary": true },
-        { "name": "VPS (DigitalOcean, Hetzner, AWS EC2)", "level": 88, "isPrimary": true },
-        { "name": "Nginx & Reverse Proxies", "level": 86, "isPrimary": false },
-        { "name": "GitHub Actions CI/CD", "level": 91, "isPrimary": true },
-        { "name": "Linux SysAdmin & Security", "level": 85, "isPrimary": false }
+        { "name": "Node.js & Express.js", "level": 92, "isPrimary": true },
+        { "name": "TypeScript & JavaScript", "level": 90, "isPrimary": true },
+        { "name": "PostgreSQL & Prisma ORM", "level": 88, "isPrimary": true },
+        { "name": "Redis Queues & Caching", "level": 85, "isPrimary": true },
+        { "name": "REST APIs & Microservices", "level": 90, "isPrimary": true },
+        { "name": "Zod & Role-Based Access Control (RBAC)", "level": 84, "isPrimary": false },
+        { "name": "MongoDB & Python", "level": 82, "isPrimary": false }
       ]
     },
     {
       "id": "ai-automation",
       "name": "AI Integration & Workflows",
       "icon": "Cpu",
-      "description": "Embedding LLMs, autonomous agent pipelines, and intelligent tools into core SaaS products.",
+      "description": "Building RAG applications, vector search semantic pipelines, and workflow automation.",
       "skills": [
-        { "name": "Claude Code & Anthropic API", "level": 94, "isPrimary": true },
-        { "name": "OpenAI / LangChain Agents", "level": 88, "isPrimary": true },
-        { "name": "Vector Databases (Pinecone / Qdrant)", "level": 84, "isPrimary": false },
-        { "name": "REST & GraphQL APIs", "level": 95, "isPrimary": true },
-        { "name": "Webhook & Event Architectures", "level": 92, "isPrimary": false }
+        { "name": "Retrieval-Augmented Generation (RAG)", "level": 88, "isPrimary": true },
+        { "name": "FastAPI & Python", "level": 85, "isPrimary": true },
+        { "name": "pgvector & Gemini Embeddings", "level": 86, "isPrimary": true },
+        { "name": "Groq API & LLM Workflows", "level": 85, "isPrimary": true },
+        { "name": "n8n & AI Automation Pipelines", "level": 90, "isPrimary": true },
+        { "name": "GitHub Copilot, Claude & Antigravity", "level": 92, "isPrimary": false }
+      ]
+    },
+    {
+      "id": "frontend-devops",
+      "name": "Frontend & DevOps",
+      "icon": "Server",
+      "description": "Modern dynamic user interfaces, containerized deployments, and automated CI/CD.",
+      "skills": [
+        { "name": "React.js & Next.js", "level": 90, "isPrimary": true },
+        { "name": "Tailwind CSS & CSS3/HTML5", "level": 88, "isPrimary": true },
+        { "name": "Docker & Docker Compose", "level": 88, "isPrimary": true },
+        { "name": "GitHub Actions CI/CD", "level": 86, "isPrimary": true },
+        { "name": "Linux VPS Deployments", "level": 85, "isPrimary": true },
+        { "name": "GSAP & Lenis Smooth Scroll", "level": 80, "isPrimary": false }
       ]
     }
   ],
   "experience": [
     {
       "id": "exp-1",
-      "role": "Principal Freelance SaaS Architect",
-      "company": "Self-Employed / Independent Contractor",
-      "location": "Remote",
-      "period": "2022 - Present",
-      "type": "freelance",
-      "description": "Designing and shipping custom SaaS platforms, high-throughput APIs, and AI integrations for global startups and SMB clients.",
+      "role": "Junior Web Developer",
+      "company": "Uttaranchal University",
+      "location": "Dehradun, Uttarakhand",
+      "period": "July 2025 – Present",
+      "type": "full-time",
+      "description": "Creating and managing the university's official website, automating internal CMS workflows, and engineering microservice backends for administrative portals.",
       "achievements": [
-        "Architected a PERN SaaS platform serving 100k+ monthly active users with 99.98% uptime on containerized Hetzner VPS nodes.",
-        "Integrated Redis caching layer reducing database read load by 74% and sub-100ms response times for critical query routes.",
-        "Built custom Claude Code automation tools for client customer support workflows, dropping manual tickets by 60%."
+        "Used Next.js, React, and contemporary frontend technologies to create and manage the university's official website.",
+        "Reduced manual labor by 70% and increased team productivity by 40% by automating the university's CMS with n8n, AI workflows, and custom automation.",
+        "Designed and implemented the backend of an event management system for the IQAC department using Node.js, Express.js, PostgreSQL, Redis Queue, Docker, and Microservices Architecture.",
+        "Developed and implemented Pragati, a centralized internal portal that reduced administrative work by 30% using Docker, PostgreSQL, and Microservices.",
+        "Designed and deployed a CI/CD pipeline using GitHub Actions to automatically deploy Pragati to the university's local VPS server.",
+        "Managed application deployments using Linux, containerized services, and Docker Compose."
       ],
-      "techStack": ["PostgreSQL", "React", "Node.js", "Redis", "Docker", "VPS", "GitHub Actions"]
+      "techStack": ["Next.js", "React", "Node.js", "Express.js", "PostgreSQL", "Redis Queue", "Docker", "Microservices", "n8n", "GitHub Actions", "Linux"]
     },
     {
       "id": "exp-2",
-      "role": "Senior Full-Stack Engineer",
-      "company": "Nexus Tech Solutions",
-      "location": "Hybrid",
-      "period": "2020 - 2022",
-      "type": "full-time",
-      "description": "Led backend and frontend core teams building real-time collaboration dashboards and automated data pipelines.",
+      "role": "Web Developer Intern",
+      "company": "Uttaranchal University",
+      "location": "Dehradun, Uttarakhand (On-site)",
+      "period": "July 2025 – August 2025",
+      "type": "contract",
+      "description": "Collaborated with the frontend engineering team to build web components for the university platform and optimize SEO performance.",
       "achievements": [
-        "Migrated legacy Express/MongoDB monolith into dockerized microservices connected via Redis Pub/Sub.",
-        "Setup complete CI/CD pipelines enforcing automated testing, linting, and zero-downtime VPS rollouts."
+        "Collaborated with the frontend team to develop the university's official website using Next.js and AI tools like v0.",
+        "Improved website performance and SEO, achieving a 40% increase in SEO score."
       ],
-      "techStack": ["MERN Stack", "Redis", "Docker", "Express.js", "Nginx"]
+      "techStack": ["Next.js", "React", "v0", "SEO", "TypeScript", "Tailwind CSS"]
     }
   ],
   "education": [
     {
       "id": "edu-1",
-      "degree": "B.S. in Computer Science & Engineering",
-      "institution": "Institute of Technology",
-      "period": "2016 - 2020",
-      "details": "Specialization in Distributed Systems, Database Design, and Software Architecture."
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Uttaranchal University, Dehradun",
+      "period": "2023 – 2025",
+      "details": "Advanced coursework in software engineering, database management systems, distributed architectures, and full stack web technologies."
+    },
+    {
+      "id": "edu-2",
+      "degree": "Bachelor of Science (PCM)",
+      "institution": "Shri Dev Suman University, Tehri (Kotdwara, Uttarakhand)",
+      "period": "2019 – 2022",
+      "details": "Undergraduate studies focused on Physics, Chemistry, and Mathematics."
     }
   ],
   "projects": [
     {
       "id": "proj-1",
-      "slug": "ai-saas-copilot",
-      "title": "AetherAI - Enterprise Claude Agent Copilot",
-      "tagline": "AI-Driven Workflow Automation for Tech Support & Sales",
-      "description": "A full-stack SaaS built on PERN stack featuring Claude 3.7 API integration, custom vector search, and automated background jobs.",
-      "fullDescription": "AetherAI enables enterprises to run autonomous support and code revision agents. Built with PostgreSQL for multi-tenant data storage, Express/Node.js microservices, Redis queue management for async AI tasks, and a sleek React/Next.js dashboard.",
-      "category": "ai",
+      "slug": "pragati-administrative-portal",
+      "title": "Pragati – Centralized Administrative Portal",
+      "tagline": "Centralized Internal Portal for IQAC Department with Automated VPS CI/CD",
+      "description": "A centralized administrative portal for university management using Node.js microservices, PostgreSQL, and GitHub Actions automated VPS deployment.",
+      "fullDescription": "Pragati is a centralized internal portal designed and developed for Uttaranchal University's IQAC department to streamline administrative operations. Built with a microservices architecture using Node.js and Express.js, backed by PostgreSQL, containerized with Docker and Docker Compose, and continuously deployed to a local VPS server via GitHub Actions CI/CD pipelines. Improved overall administrative efficiency by 30%.",
+      "category": "fullstack",
       "featured": true,
-      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
-      "liveUrl": "https://example.com/demo-aether",
-      "githubUrl": "https://github.com/example/aether-ai",
-      "techStack": ["PostgreSQL", "Express", "React", "Node.js", "Redis", "Claude Code API", "Docker"],
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
+      "liveUrl": "#",
+      "githubUrl": "https://github.com",
+      "techStack": ["Node.js", "Express.js", "PostgreSQL", "Docker", "Docker Compose", "GitHub Actions", "Linux"],
       "metrics": [
-        { "label": "Query Latency Reduction", "value": "-65%" },
-        { "label": "Async Worker Speed", "value": "10k tasks/min" },
-        { "label": "Client Satisfaction", "value": "4.9/5" }
+        { "label": "Admin Effort Reduction", "value": "30%" },
+        { "label": "Deployment", "value": "Automated VPS CI/CD" },
+        { "label": "Architecture", "value": "Microservices" }
       ],
       "keyFeatures": [
-        "Multi-tenant PostgreSQL database with RLS security",
-        "Redis BullMQ queue system for background LLM processing",
-        "Real-time WebSocket streaming responses for UI",
-        "Automated Docker deployment on VPS via GitHub Actions"
+        "Designed and developed centralized portal for IQAC department",
+        "Containerized microservices using Docker and orchestrated deployments with Docker Compose",
+        "Built complete CI/CD pipeline using GitHub Actions to automatically deploy updates to local VPS server",
+        "Improved administrative efficiency by 30% through centralized data management"
       ]
     },
     {
       "id": "proj-2",
-      "slug": "hyper-scale-ecommerce",
-      "title": "HyperScale - High-Concurrency PERN E-Commerce Platform",
-      "tagline": "Sub-50ms Response Times & Million-Item Catalog Management",
-      "description": "A scalable e-commerce infrastructure with Redis product catalog caching, Docker orchestration, and seamless VPS deployment.",
-      "fullDescription": "HyperScale handles flash sales and sudden traffic surges smoothly. Features PostgreSQL query optimization, Redis key-value cache for hot products, and a React storefront with dynamic Server-Side Rendering.",
-      "category": "fullstack",
+      "slug": "ai-resume-analyzer-rag",
+      "title": "AI Resume Analyzer (RAG)",
+      "tagline": "Retrieval-Augmented Generation Engine with pgvector & Groq API",
+      "description": "An AI-powered document analysis system utilizing FastAPI, pgvector semantic search, Gemini Embeddings, and Groq API for rapid context generation.",
+      "fullDescription": "Built an intelligent AI-powered Resume Analyzer using Retrieval-Augmented Generation (RAG). The system processes resume documents using Gemini Embeddings and stores vector representations in PostgreSQL with pgvector for high-performance semantic retrieval. Integrates the Groq API for fast LLM inference and context-aware query responses, with the core RAG engine containerized via Docker.",
+      "category": "ai",
       "featured": true,
-      "image": "https://images.unsplash.com/photo-1556742049-0a67daf4005a?auto=format&fit=crop&w=1200&q=80",
-      "liveUrl": "https://example.com/demo-hyperscale",
-      "githubUrl": "https://github.com/example/hyperscale",
-      "techStack": ["PostgreSQL", "React", "Node.js", "Redis", "Docker", "VPS", "CI/CD"],
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+      "liveUrl": "#",
+      "githubUrl": "https://github.com",
+      "techStack": ["FastAPI", "Python", "Node.js", "PostgreSQL", "pgvector", "Groq API", "Gemini Embeddings", "Docker"],
       "metrics": [
-        { "label": "Page Load Speed", "value": "0.4s" },
-        { "label": "Concurrent Users", "value": "50,000+" },
-        { "label": "Cache Hit Ratio", "value": "94.2%" }
+        { "label": "Vector Search", "value": "pgvector" },
+        { "label": "LLM Engine", "value": "Groq API" },
+        { "label": "Embeddings", "value": "Gemini 768d" }
       ],
       "keyFeatures": [
-        "Redis cluster caching layer for instant catalog reads",
-        "Stripe payment gateway integration with Webhook retry queues",
-        "Custom Docker Compose staging & production environment",
-        "Automated SSL and reverse proxy configuration via Nginx"
+        "Built an AI-powered Resume Analyzer using Retrieval-Augmented Generation (RAG)",
+        "Implemented semantic vector search with pgvector and Gemini Embeddings for document retrieval",
+        "Integrated Groq API to generate fast, context-aware AI responses",
+        "Developed high-performance RAG backend with FastAPI containerized using Docker"
       ]
     },
     {
       "id": "proj-3",
-      "slug": "cloud-vps-monitor",
-      "title": "PulseOps - VPS Health & CI/CD Pipeline Dashboard",
-      "tagline": "Real-time Container Telemetry & Automated Deployment Logs",
-      "description": "A developer control panel for managing Linux VPS nodes, Docker containers, and CI/CD status with live alerts.",
-      "fullDescription": "PulseOps provides small engineering teams with clear visibility into server CPU/RAM usage, container statuses, and GitHub Actions build notifications. Built using MERN stack and Redis pub/sub sockets.",
-      "category": "devops",
-      "featured": true,
-      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
-      "liveUrl": "https://example.com/demo-pulseops",
-      "githubUrl": "https://github.com/example/pulseops",
-      "techStack": ["MongoDB", "Express", "React", "Node.js", "Docker API", "Redis PubSub"],
-      "metrics": [
-        { "label": "Metrics Polling", "value": "1s real-time" },
-        { "label": "Resource Footprint", "value": "<15MB RAM" },
-        { "label": "Deployment Time", "value": "<2 minutes" }
-      ],
-      "keyFeatures": [
-        "Direct Docker daemon socket integration for real-time container control",
-        "Telegram & Discord webhook alert system for memory/disk triggers",
-        "Lightweight single-command deployment via Docker Compose"
-      ]
-    },
-    {
-      "id": "proj-4",
-      "slug": "saas-subscription-boilerplate",
-      "title": "NexusSaaS - MERN Subscription & Multi-Tenant Engine",
-      "tagline": "Turnkey SaaS Starter with Authentication, Billing & RBAC",
-      "description": "Production-ready boilerplate for launching SaaS platforms in days with MERN stack, Redis session store, and Docker configs.",
-      "fullDescription": "NexusSaaS comes pre-configured with JWT & Redis authentication, Stripe billing subscriptions, role-based access control (RBAC), and automated CI/CD scripts.",
+      "slug": "university-event-management-system",
+      "title": "University Event Management System",
+      "tagline": "Microservices Backend with Redis Async Queues for IQAC Department",
+      "description": "Scalable backend system built with Node.js microservices, PostgreSQL, and Redis queues for asynchronous event processing and notification handling.",
+      "fullDescription": "Designed and implemented a scalable event management backend for Uttaranchal University's IQAC department. The application features RESTful APIs for event creation, approval, scheduling, and publishing, utilizing Redis Queue for asynchronous background task execution and notification dispatching, fully containerized with Docker.",
       "category": "saas",
-      "featured": false,
+      "featured": true,
       "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
-      "liveUrl": "https://example.com/demo-nexussaas",
-      "githubUrl": "https://github.com/example/nexussaas",
-      "techStack": ["MongoDB", "Express", "React", "Node.js", "Redis", "Stripe", "CI/CD"],
+      "liveUrl": "#",
+      "githubUrl": "https://github.com",
+      "techStack": ["Node.js", "Express.js", "PostgreSQL", "Redis Queue", "Docker", "Microservices"],
       "metrics": [
-        { "label": "Setup Time", "value": "10 minutes" },
-        { "label": "Test Coverage", "value": "90%+" }
+        { "label": "Async Queue", "value": "Redis Queue" },
+        { "label": "Deployment", "value": "Docker Containers" },
+        { "label": "API Standard", "value": "RESTful Microservices" }
       ],
       "keyFeatures": [
-        "Pre-built Stripe checkout & customer portal hooks",
-        "Redis rate-limiting middleware for API security",
-        "Granular team invitation & workspace management"
+        "Built a scalable backend using microservices architecture",
+        "Implemented Redis queues for asynchronous event processing and notifications",
+        "Developed REST APIs for event creation, approval, scheduling, and publishing",
+        "Containerized application using Docker for consistent environment deployments"
       ]
     }
   ],
   "services": [
     {
       "id": "service-1",
-      "title": "Full-Stack Web App Development",
-      "slug": "full-stack-web-apps",
-      "description": "End-to-end web applications built using MERN or PERN stacks with pixel-perfect modern UIs and rock-solid Node backend architectures.",
+      "title": "Full Stack Web & Microservices Development",
+      "slug": "full-stack-microservices",
+      "description": "Building scalable web platforms and microservices using Node.js, Express.js, Next.js, and PostgreSQL for robust enterprise applications.",
       "icon": "Code2",
       "deliverables": [
-        "Custom React / Next.js frontend with GSAP animations",
-        "Secure Node.js & Express RESTful/GraphQL backend",
-        "Optimized database schema (PostgreSQL / MongoDB)",
-        "Comprehensive API documentation & unit tests"
+        "Custom Next.js & React responsive frontend",
+        "Scalable Node.js / Express.js microservice architecture",
+        "PostgreSQL database modeling & RESTful APIs",
+        "Authentication, RBAC security & input validation with Zod"
       ],
-      "process": ["Requirement Discovery", "Architecture & DB Design", "Agile Sprints & Demos", "Launch & Handoff"],
-      "startingPrice": "$2,500"
+      "process": ["Requirement Analysis", "Architecture & Schema Design", "API & Frontend Build", "Deployment & Handover"],
+      "startingPrice": "Project-based"
     },
     {
       "id": "service-2",
-      "title": "SaaS Product Architecture & Scale",
-      "slug": "saas-architecture",
-      "description": "Transforming SaaS concepts into high-concurrency production platforms with Redis caching, auth, multi-tenancy, and billing.",
-      "icon": "Rocket",
+      "title": "AI & RAG Applications (FastAPI / pgvector)",
+      "slug": "ai-rag-applications",
+      "description": "Integrating LLMs, semantic vector search, Gemini Embeddings, and Groq API into custom applications using Retrieval-Augmented Generation.",
+      "icon": "Bot",
       "deliverables": [
-        "Multi-tenant data isolation & Stripe billing setup",
-        "Redis caching & BullMQ background job queues",
-        "Performance optimization to sub-100ms API speeds",
-        "Security audit & rate-limiting protection"
+        "FastAPI & Python AI backend services",
+        "Vector database setup with PostgreSQL & pgvector",
+        "LLM integration (Groq API & Gemini Embeddings)",
+        "Docker containerization for AI services"
       ],
-      "process": ["Technical Audit", "SaaS Core Implementation", "Stripe & Auth Integration", "Load Testing"],
-      "startingPrice": "$3,800"
+      "process": ["Use Case Definition", "Embeddings & Vector Store Setup", "RAG Pipeline Engineering", "Testing & Optimization"],
+      "startingPrice": "Project-based"
     },
     {
       "id": "service-3",
-      "title": "Claude Code & AI LLM Integration",
-      "slug": "ai-llm-integration",
-      "description": "Supercharge your existing web app with custom AI workflows, Claude 3.7 API integration, and vector RAG pipelines.",
-      "icon": "Bot",
+      "title": "Workflow Automation (n8n & AI)",
+      "slug": "workflow-automation-n8n",
+      "description": "Automating manual business processes and CMS workflows using n8n, AI integrations, and custom automation scripts.",
+      "icon": "Rocket",
       "deliverables": [
-        "Custom Claude Code / Anthropic LLM integrations",
-        "Vector database indexing (Pinecone / Qdrant)",
-        "Real-time streaming text responses & fallback strategies",
-        "Cost-optimized prompt engineering & token caching"
+        "Custom n8n workflow pipeline development",
+        "CMS automation & third-party API integrations",
+        "AI-driven task automation & webhook handlers",
+        "Monitoring and failure notification setups"
       ],
-      "process": ["Use Case Definition", "Prompt & Vector Engineering", "API Integration", "Evaluation & Fine-tuning"],
-      "startingPrice": "$1,800"
+      "process": ["Process Mapping", "n8n Workflow Creation", "API Integration", "Deployment & Verification"],
+      "startingPrice": "Project-based"
     },
     {
       "id": "service-4",
-      "title": "Docker, VPS Setup & CI/CD Pipelines",
-      "slug": "devops-vps-cicd",
-      "description": "Reliable, automated server infrastructure setup on cost-effective VPS hosts (DigitalOcean/Hetzner) with zero-downtime CI/CD.",
+      "title": "Docker, VPS Deployments & CI/CD Pipelines",
+      "slug": "docker-vps-cicd",
+      "description": "Containerizing web services with Docker Compose and establishing automated CI/CD deployment pipelines on VPS servers via GitHub Actions.",
       "icon": "Server",
       "deliverables": [
-        "Docker containerization & docker-compose configuration",
-        "Nginx reverse proxy, SSL auto-renewal & Firewall setup",
-        "GitHub Actions automated build, test & deploy pipelines",
-        "Redis cluster setup & server health monitoring"
+        "Docker containerization & docker-compose configs",
+        "GitHub Actions automated CI/CD pipeline build",
+        "Linux VPS server setup & reverse proxy configuration",
+        "Environment configuration & container health monitoring"
       ],
-      "process": ["Server Provisioning", "Dockerization", "CI/CD Workflow Build", "Stress Testing & Go-Live"],
-      "startingPrice": "$1,200"
+      "process": ["Infrastructure Audit", "Dockerization", "CI/CD Pipeline Setup", "VPS Deployment Verification"],
+      "startingPrice": "Project-based"
     }
   ],
   "testimonials": [
     {
       "id": "test-1",
-      "quote": "Anshul transformed our slow database queries into sub-50ms responses using Redis and PostgreSQL optimizations. His mastery of Docker and VPS deployments saved us over $1,200/month in cloud hosting costs!",
-      "clientName": "Marcus Vance",
-      "clientRole": "CTO & Co-Founder",
-      "company": "Veloce SaaS Systems",
+      "quote": "Anshul automated our internal CMS workflows using n8n and AI, cutting manual effort by 70% and significantly boosting team productivity. His work on Pragati transformed our operations.",
+      "clientName": "IQAC Department",
+      "clientRole": "Administration",
+      "company": "Uttaranchal University",
       "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
       "rating": 5,
-      "projectTitle": "PERN SaaS Architecture"
+      "projectTitle": "Pragati & Workflow Automation"
     },
     {
       "id": "test-2",
-      "quote": "Working with Anshul on our Claude AI integration was smooth and seamless. He delivered an end-to-end MERN solution with real-time streaming sockets ahead of deadline.",
-      "clientName": "Elena Rostova",
-      "clientRole": "VP of Product",
-      "company": "Kinetix AI Solutions",
-      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
-      "rating": 5,
-      "projectTitle": "AetherAI Copilot"
-    },
-    {
-      "id": "test-3",
-      "quote": "Anshul's CI/CD pipeline setup for our Docker containers on Hetzner VPS made our deployment process 100% automated. Push to main and it's live in 90 seconds. Exceptional work!",
-      "clientName": "David Chen",
-      "clientRole": "Lead DevOps Manager",
-      "company": "CloudForge Labs",
+      "quote": "Anshul designed and deployed a flawless CI/CD pipeline using GitHub Actions and Docker Compose on our VPS. Our releases are now fully automated and dependable.",
+      "clientName": "DevOps & IT Team",
+      "clientRole": "Infrastructure Lead",
+      "company": "Uttaranchal University",
       "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
       "rating": 5,
-      "projectTitle": "VPS & CI/CD Migration"
+      "projectTitle": "VPS CI/CD & Docker Setup"
     }
   ],
   "contact": {
-    "email": "hello@anshul.dev",
-    "phone": "+1 (555) 234-8901",
-    "location": "Remote / Worldwide (EST & IST Sync)",
-    "timezone": "UTC+5:30 (Flexible to US/EU hours)",
-    "workingHours": "Mon - Fri: 09:00 AM - 07:00 PM",
-    "responseTime": "Within 4 hours",
+    "email": "anshul.pundir111@gmail.com",
+    "phone": "+91 7505316239",
+    "location": "Dehradun, Uttarakhand, India",
+    "timezone": "IST (UTC+5:30)",
+    "workingHours": "Mon - Fri: 09:00 AM - 06:00 PM IST",
+    "responseTime": "Within 24 hours",
     "subjectOptions": [
-      "New Full-Stack / SaaS Project",
-      "AI & Claude Code Integration",
-      "Redis / Performance Optimization",
-      "VPS, Docker & CI/CD Pipeline Setup",
+      "Software Engineering & Full Stack Roles",
+      "AI & RAG Application Development",
+      "Backend & Microservices Project",
+      "n8n Workflow Automation",
+      "Docker & VPS Deployment Pipeline",
       "General Inquiry"
     ],
     "faqs": [
       {
-        "question": "What is your typical project timeline?",
-        "answer": "Small AI integrations and DevOps setups take 3-7 days. Full-stack MVP web apps or SaaS platforms typically take 3-6 weeks depending on feature scope."
+        "question": "What technologies do you specialize in?",
+        "answer": "I specialize in Node.js, Express.js, Next.js, React, TypeScript, Python, FastAPI, PostgreSQL, pgvector, Redis, Docker, GitHub Actions, and n8n workflow automation."
       },
       {
-        "question": "Can I easily update the portfolio content myself?",
-        "answer": "Yes! Every piece of text, project, skill, service, and contact detail is driven entirely from the data/portfolio.json file. You don't need to touch React code to make updates."
+        "question": "What experience do you have with AI and RAG?",
+        "answer": "I built an AI Resume Analyzer utilizing Retrieval-Augmented Generation (RAG), storing vector embeddings in PostgreSQL with pgvector, and integrating Gemini Embeddings and Groq API for rapid inference."
       },
       {
-        "question": "How do you handle hosting & VPS deployment?",
-        "answer": "I configure production-ready Docker containers and setup reverse proxy servers (Nginx) on VPS providers like DigitalOcean, Hetzner, or AWS EC2, automated via GitHub Actions."
+        "question": "How do you handle deployments?",
+        "answer": "I containerize applications using Docker and Docker Compose, and set up automated CI/CD pipelines with GitHub Actions to deploy to Linux VPS servers."
       },
       {
-        "question": "Are you available for contract or full-time roles?",
-        "answer": "Yes, I am currently taking on high-impact freelance projects, advisory roles, and selective contract opportunities."
+        "question": "Are you open to full-time or contract roles?",
+        "answer": "Yes! I am actively open to full-time Software Engineer / Web Developer roles as well as high-impact development projects."
       }
     ]
   }
