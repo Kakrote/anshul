@@ -14,7 +14,7 @@
     "location": "Dehradun, Uttarakhand, India",
     "email": "anshul.pundir111@gmail.com",
     "phone": "+91 7505316239",
-    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "avatar": "/anshul.jpeg",
     "resumeUrl": "/AnshulPundir.pdf",
     "availabilityStatus": "Available for Full-time Roles & High-Impact Projects",
     "yearsOfExperience": "1+",
@@ -24,7 +24,7 @@
       { "platform": "GitHub", "url": "https://github.com", "icon": "Github" },
       { "platform": "LinkedIn", "url": "https://linkedin.com", "icon": "Linkedin" }
     ]
-  },
+  }, 
   "seo": {
     "title": "Anshul Pundir | Full Stack & AI Applications Developer",
     "description": "Portfolio of Anshul Pundir - Full Stack Developer experienced in Node.js, Next.js, Express.js, PostgreSQL, Redis, Docker, microservices, and RAG AI applications.",
