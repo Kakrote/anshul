@@ -13,6 +13,9 @@ export const metadata: Metadata = {
     default: seo.title,
     template: `%s | ${personal.name}`,
   },
+   verification: {
+    google: "1I6x_KpE6yktZKuYzGKMwjfV7LFoPQYT5TdxS94phhw",
+  },
   description: seo.description,
   keywords: seo.keywords,
   authors: [{ name: seo.author }],
